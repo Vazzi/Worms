@@ -1,7 +1,11 @@
 # WORMS
 Terminal game based on classic Worms game.
 
-## Creates
+![Alt text](/ScreenShotMenu.png "Worms")
+
+![Alt text](/ScreenShotGame.png "Game")
+
+## Created by
 
 Jakub Vlasák in 2012
 
